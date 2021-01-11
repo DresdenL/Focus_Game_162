@@ -1,6 +1,6 @@
 # Focus_Game_162
 This is my portfolio project for CS 162. Below are the instructions for the portfolio project (which includes the rules of the game.) These instructions
-were written by the instructor of CS 162 (Doshna Ummareddy) from Oregon State University. The python program found in focus_game.py is my own. 
+were written by the instructor of CS 162 (Doshna Ummareddy) from Oregon State University. The python program found in focusgame.py is my own. 
 
 
 # portfolio-project
